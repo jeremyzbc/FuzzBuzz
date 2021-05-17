@@ -1,0 +1,16 @@
+{
+  "name": "CashRewards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "jest": {
+    "testEnvironment": "jest-environment-node"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.14.0",
+    "jest": "^26.6.3"
+  }
+}
