@@ -2,4 +2,4 @@
 `yarn` or `npm install`
 
 # Run unit tests
-`yarn test` or `npm test`# FuzzBuzz
+`yarn test` or `npm test`
